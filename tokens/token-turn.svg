@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70.866142"
+   height="70.866142"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="token-turn.svg"
+   inkscape:export-filename="/home/quique/Documents/bitmaps/token-turn.png"
+   inkscape:export-xdpi="1300.48"
+   inkscape:export-ydpi="1300.48">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.4788888"
+     inkscape:cx="35.433071"
+     inkscape:cy="35.433071"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="cm"
+     inkscape:window-width="1024"
+     inkscape:window-height="746"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-981.49473)">
+    <g
+       id="g5543"
+       transform="matrix(0,1.4248624,-1.4248624,0,1032.1781,973.70007)"
+       style="fill:#ffd71f;fill-opacity:1;stroke:#ffd71f;stroke-opacity:1;display:inline">
+      <rect
+         y="712.75293"
+         x="20.444212"
+         height="4.2653389"
+         width="19.267567"
+         id="rect5527"
+         style="fill:#ffd71f;fill-opacity:1;fill-rule:nonzero;stroke:#ffd71f;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="2.3480421"
+         sodipodi:start="0.79036131"
+         transform="translate(0,740.55118)"
+         d="m 54.82439,-38.327163 c -13.553635,13.419761 -35.376058,13.45456 -48.9724236,0.07809"
+         sodipodi:ry="34.858116"
+         sodipodi:rx="34.858116"
+         sodipodi:cy="-63.097603"
+         sodipodi:cx="30.298616"
+         id="path5535"
+         style="fill:#ffd71f;fill-opacity:1;fill-rule:nonzero;stroke:#ffd71f;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         transform="translate(0,740.55118)"
+         inkscape:connector-curvature="0"
+         id="path5537"
+         d="m 30.004455,-58.243943 0.294162,25.297874 2.059129,0.882484"
+         style="fill:#ffd71f;fill-opacity:1;stroke:#ffd71f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="cc"
+         transform="translate(0,740.55118)"
+         inkscape:connector-curvature="0"
+         id="path5539"
+         d="M 30.004455,-58.243943 45.153763,-33.24023"
+         style="fill:#ffd71f;fill-opacity:1;stroke:#ffd71f;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="cc"
+         transform="translate(0,740.55118)"
+         inkscape:connector-curvature="0"
+         id="path5541"
+         d="M 30.004455,-58.243943 15.002228,-33.24023"
+         style="fill:#ffd71f;fill-opacity:1;stroke:#ffd71f;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+  </g>
+</svg>
