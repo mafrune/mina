@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="template-asteroid-galileo.svg"
-   inkscape:export-filename="/home/quique/Documents/bitmaps/plantilla-gaspra.png"
+   sodipodi:docname="template-asteroid-gaspra.svg"
+   inkscape:export-filename="G:\mina\mina\asteroids\020.png"
    inkscape:export-xdpi="295.52698"
    inkscape:export-ydpi="295.52698">
   <defs
@@ -28,18 +28,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6997476"
-     inkscape:cx="101.31852"
+     inkscape:zoom="2.4277527"
+     inkscape:cx="111.61417"
      inkscape:cy="155.9055"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
      units="mm"
      inkscape:snap-global="false"
-     inkscape:window-width="1024"
-     inkscape:window-height="746"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     inkscape:window-x="-4"
+     inkscape:window-y="24"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -123,6 +123,77 @@
          y="201.05481"
          style="font-size:12px;fill:#ffffff;fill-opacity:1"
          id="tspan5751">NASA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="68.284409"
+       y="40.557198"
+       id="text3833"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-y="2.4714214"><tspan
+         sodipodi:role="line"
+         id="tspan3835"
+         x="68.284409"
+         y="40.557198"
+         style="font-size:24px">Asteroid</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="24.144423"
+       y="229.62096"
+       id="text3837"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3839"
+         x="24.144423"
+         y="229.62096"
+         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold">Risk: 8</tspan><tspan
+         sodipodi:role="line"
+         x="24.144423"
+         y="252.12096"
+         id="tspan3841"
+         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold">Opportunity: 0</tspan><tspan
+         sodipodi:role="line"
+         x="24.144423"
+         y="274.62097"
+         id="tspan3843"
+         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Sans Bold">Resources: 6</tspan></text>
+    <image
+       y="48.480366"
+       x="19.647118"
+       id="image4485"
+       xlink:href="data:image/png;base64,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
+RU5ErkJggg==
+"
+       width="45"
+       height="45" />
   </g>
   <g
      inkscape:label="Pioneer"
